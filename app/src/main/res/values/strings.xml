@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LibraryRoom</string>
+    <string name="edit_id_hint">Id</string>
+    <string name="edit_name_hint">Name</string>
+    <string name="edit_salary_hint">Salary</string>
+    <string name="button_add">Add</string>
+    <string name="button_get">Get</string>
+    <string name="button_delete">Delete</string>
+</resources>
